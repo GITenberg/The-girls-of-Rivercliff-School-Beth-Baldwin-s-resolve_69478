@@ -1,11 +1,16 @@
 _repo: The-girls-of-Rivercliff-School-Beth-Baldwin-s-resolve_69478
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69478-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Amy Bell
     gutenberg_agent_id: '26286'
     url: http://www.gutenberg.org/2009/agents/26286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69478#The-girls-of-Rivercliff-School-Beth-Baldwin-s-resolve
 gutenberg_issued: '2022-12-05'
 identifiers:
   gutenberg: '69478'
